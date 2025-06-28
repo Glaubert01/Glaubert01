@@ -3,7 +3,8 @@
 <h3 align="center">Desenvolvedor Full Stack | Criador de soluções digitais | Apaixonado por tecnologia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Front-end+%2B+Back-end+%2B+Banco+de+Dados;Apaixonado+por+Clean+Code+e+UX;Vamos+construir+juntos%3F" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Front-end+%2B+Back-end+%2B+Banco+de+Dados;Apaixonado+por+Clean+Code+e+UX;Vamos+construir+juntos%3F" />
+
 </p>
 
 ---
