@@ -8,22 +8,6 @@
 </p>
 
 ---
-
-### 🚀 Sobre mim
-
-
-const user = {
-  nome: "Glaubert Nunes da Rosa",
-  localização: "Volta Redonda, RJ - Brasil",
-  foco: "Desenvolvimento Full Stack",
-  objetivos: [
-    "Criar aplicações robustas e escaláveis",
-    "Desenvolver soluções para problemas reais",
-    "Contribuir com projetos open-source"
-  ],
-  cafe: true
-}
-
 🧠 Tecnologias que utilizo
 🎨 Front-end
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> </p>
@@ -41,3 +25,19 @@ const user = {
 <p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 🤝 Conecte-se comigo
 <p align="left"> <a href="https://linkedin.com/in/seulinkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
+
+### 🚀 Sobre mim
+
+```js
+const user = {
+  nome: "Glaubert Nunes da Rosa",
+  localização: "Volta Redonda, RJ - Brasil",
+  foco: "Desenvolvimento Full Stack",
+  objetivos: [
+    "Criar aplicações robustas e escaláveis",
+    "Desenvolver soluções para problemas reais",
+    "Contribuir com projetos open-source"
+  ],
+  cafe: true
+}
+
