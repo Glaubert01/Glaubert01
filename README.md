@@ -24,7 +24,7 @@
 🐍 Snake Game - Commit Contributions
 <p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/output/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 🤝 Conecte-se comigo
-<p align="left"> <a href="https://linkedin.com/in/seulinkedin" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:seuemail@gmail.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
+<p align="left"> <a href="https://www.linkedin.com/in/glaubert-nunes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:glaubert@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
 
 ### 🚀 Sobre mim
 
