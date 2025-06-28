@@ -11,7 +11,7 @@
 
 ### 🚀 Sobre mim
 
-```js
+
 const user = {
   nome: "Glaubert Nunes da Rosa",
   localização: "Volta Redonda, RJ - Brasil",
