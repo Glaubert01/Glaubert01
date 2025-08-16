@@ -1,32 +1,42 @@
-<h1 align="center">Olá, eu sou o <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Glaubert Nunes da Rosa</h1>
+<h1 align="center">👋 Olá, eu sou o Glaubert Nunes da Rosa</h1>
 
-<h3 align="center">Desenvolvedor Full Stack | Criador de soluções digitais | Apaixonado por tecnologia</h3>
+<h3 align="center">💻 Desenvolvedor Full Stack | 🚀 Criador de soluções digitais | ⚡ Apaixonado por tecnologia</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Front-end+%2B+Back-end+%2B+Banco+de+Dados;Apaixonado+por+Clean+Code+e+UX;Vamos+construir+juntos%3F" />
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Front-end+%2B+Back-end+%2B+Banco+de+Dados;Apaixonado+por+Clean+Code+e+UX;Aberto+a+novas+oportunidades+🚀" />
 </p>
 
----
-<p align="center">🧠 Tecnologias que utilizo
-<p align="center">🎨 Front-end
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> </p>
-<p align="center">🛠️ Back-end
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/> </p>
-<p align="center">🛢️ Banco de Dados
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/> </p>
-<p align="center">🧰 Ferramentas & Outras Techs
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> </p>
-<p align="center">👨‍💻 Um pouco do meu mundo dev
-<div align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation"/> </div>
-<p align="center">📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubert01&layout=compact&theme=tokyonight" /> </p>
-<p align="center">🐍 Snake Game - Commit Contributions
-<p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/dist/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
-<p align="center">🤝 Conecte-se comigo
-<p align="center"> <a href="https://www.linkedin.com/in/glaubert-nunes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:glaubert@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> ```
 
-### 🚀 Sobre mim
+<p align="center">🧠 Tecnologias & Ferramentas</p>
+<p align="center">🎨 Front-end</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS"/> </p>
+
+<p align="center">🛠️ Back-end</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/> </p>
+
+<p align="center">📱 Mobile</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/> </p>
+
+<p align="center">🛢️ Banco de Dados</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> </p>
+
+<p align="center">🧰 Ferramentas & Outras Techs</p>
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/> </p>
+
+<p align="center">👨‍💻 Um pouco do meu mundo dev</p>
+<div align="center"> <img src="" width="600" alt="Meu setup de desenvolvimento"/> </div>
+
+<p align="center">📊 GitHub Stats</p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Glaubert01&theme=tokyonight"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubert01&layout=compact&theme=tokyonight" /> </p>
+
+<p align="center">🐍 Snake Game - Commit Contributions</p>
+<p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/dist/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
+
+<p align="center">🤝 Conecte-se comigo</p>
+<p align="center"> <a href="https://www.linkedin.com/in/glaubert-nunes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:glaubert@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> ```
+---
+
+## 🚀 Sobre mim
 
 ```js
 const user = {
@@ -36,8 +46,8 @@ const user = {
   objetivos: [
     "Criar aplicações robustas e escaláveis",
     "Desenvolver soluções para problemas reais",
-    "Contribuir com projetos open-source"
+    "Contribuir com projetos open-source",
+    "Atuar em projetos internacionais 🌍"
   ],
-  cafe: true
+  cafe: true ☕
 }
-
