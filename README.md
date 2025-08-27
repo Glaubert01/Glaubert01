@@ -36,7 +36,9 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubert01&layout=compact&langs_count=8&theme=tokyonight" />
 </div>
-
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Glaubert01&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 
 
