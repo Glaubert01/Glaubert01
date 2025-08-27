@@ -29,8 +29,8 @@
 <p align="center">📊 GitHub Stats</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://streak-stats.vercel.app/?user=Glaubert01&theme=tokyonight" />
+  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" />
+  <img height="180em" width="49%" src="https://streak-stats.vercel.app/?user=Glaubert01&theme=tokyonight" />
 </div>
 
 <div align="center">
