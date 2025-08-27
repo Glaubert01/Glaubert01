@@ -27,7 +27,19 @@
 <div align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/Setup" width="600" alt="Meu setup de desenvolvimento"/> </div>
 
 <p align="center">📊 GitHub Stats</p>
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Glaubert01&theme=tokyonight"/> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubert01&layout=compact&theme=tokyonight" /> </p>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://streak-stats.vercel.app/?user=Glaubert01&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glaubert01&layout=compact&langs_count=8&theme=tokyonight" />
+</div>
+
+
+
+
 
 <p align="center">🐍 Snake Game - Commit Contributions</p>
 <p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/dist/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
