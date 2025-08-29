@@ -47,8 +47,7 @@
 <p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/dist/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 
 <p align="center">🤝 Conecte-se comigo</p>
-<p align="center"> <a href="https://www.linkedin.com/in/glaubert-nunes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:glaubert@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> ```
----
+<p align="center"> <a href="https://www.linkedin.com/in/glaubert-nunes/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:glaubert@outlook.com"> <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p> 
 
 ## 🚀 Sobre mim
 
