@@ -56,7 +56,7 @@
 const user = {
   nome: "Glaubert Nunes da Rosa",
   localização: "Volta Redonda, RJ - Brasil",
-  foco: "Desenvolvimento Full Stack",
+  foco: "Desenvolvimento Full Stack", "Desenvolvimento Front-End"
   objetivos: [
     "Criar aplicações robustas e escaláveis",
     "Desenvolver soluções para problemas reais",
