@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá, eu sou o Glaubert Nunes da Rosa </h1>
 
-<h3 align="center">💻 Desenvolvedor Full Stack | 🚀 Criador de soluções digitais | ⚡ Apaixonado por tecnologia </h3>
+<h3 align="center"> 💻 Desenvolvedor Full Stack | 🚀 Criador de soluções digitais | ⚡ Apaixonado por tecnologia </h3>
 
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Front-end+%2B+Back-end+%2B+Banco+de+Dados;Apaixonado+por+Clean+Code+e+UX;Aberto+a+novas+oportunidades+🚀" />
