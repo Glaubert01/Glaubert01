@@ -14,7 +14,7 @@
 <p align="center">🛠️ Back-end </p>
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="NodeJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/> </p>
 
-<p align="center"> 📱 Mobile </p>
+<p align="center">📱 Mobile </p>
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/> </p>
 
 <p align="center"> 🛢️ Banco de Dados</p>
