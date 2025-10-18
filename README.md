@@ -44,7 +44,7 @@
 
 
 
-<p align="center"> 🐍 Snake Game - Commit Contributions</p>
+<p align="center">🐍 Snake Game - Commit Contributions</p>
 <p align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/dist/github-contribution-grid-snake.svg" alt="snake gif" /> </p>
 
 <p align="center"> 🤝 Conecte-se comigo</p>
