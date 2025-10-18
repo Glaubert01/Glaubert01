@@ -17,7 +17,7 @@
 <p align="center">📱 Mobile </p>
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart"/> </p>
 
-<p align="center"> 🛢️ Banco de Dados</p>
+<p align="center">🛢️ Banco de Dados</p>
 <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/> </p>
 
 <p align="center"> 🧰 Ferramentas & Outras Techs</p>
