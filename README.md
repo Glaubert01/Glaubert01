@@ -27,7 +27,7 @@
 <div align="center"> <img src="https://github.com/Glaubert01/Glaubert01/blob/main/Setup" width="600" alt="Meu setup de desenvolvimento"/> </div>
 <div align="center"> <img src="https://camo.githubusercontent.com/41dce96615009283b02805ec5234f99bfdae6bbe8aaaedd74cd43bda0b7efcc1/68747470733a2f2f632e74656e6f722e636f6d2f5f444f426a6e4773705941414141414d2f636f64652d636f64696e672e676966" width="200" alt="Meu setup de desenvolvimento"/> </div>
 
-<p align="center">📊 GitHub Stats </p>
+<p align="center"> 📊 GitHub Stats </p>
 
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Glaubert01&show_icons=true&theme=tokyonight" />
